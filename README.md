@@ -1,6 +1,6 @@
 Project Summary:
-This project aims to classify flower images into five categories (daisy, dandelion, rose, sunflower,
-tulip) using deep learning techniques. I developed and compared multiple Convolutional Neural
+
+This project aims to classify flower images into five categories (daisy, dandelion, rose, sunflower, tulip) using deep learning techniques. I developed and compared multiple Convolutional Neural
 Network (CNN) models, including a baseline model, a deeper model with regularization, and a
 transfer learning approach using VGG16. The dataset, consisting of approximately 3,550 training
 images, was preprocessed with data augmentation and normalization. The baseline model achieved
@@ -12,7 +12,10 @@ include the effectiveness of pre-trained models in reducing class confusion (e.g
 the trade-offs between computational cost and performance. Future work includes experimenting
 with other pre-trained models and collecting more diverse data to further improve accuracy.
 
+
+
 Dataset:
+
 The dataset used in this project is a custom flower image dataset with five classes: daisy, dandelion,
 rose, sunflower, and tulip. It contains approximately 3,582 training images, with the following
 class distribution: lily (~617), lotus (~905), orchid (~637), sunflower (~586), and tulip (~837). The
